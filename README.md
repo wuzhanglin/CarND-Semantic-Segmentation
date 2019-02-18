@@ -1,4 +1,5 @@
-# Semantic Segmentation
+# Self-Driving Car Project 12. Semantic Segmentation
+
 ### Introduction
 In this project, I will try to label the pixels of a road in images using a Fully Convolutional Network (FCN).
 
